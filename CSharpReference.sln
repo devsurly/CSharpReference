@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSarp02", "CSarp2.0\CSarp02.csproj", "{D9691810-438B-434E-862E-76EEB500DD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSarp10", "CSarp10\CSarp10.csproj", "{8D040911-1C0F-477F-8A54-89F70653EF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9691810-438B-434E-862E-76EEB500DD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9691810-438B-434E-862E-76EEB500DD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9691810-438B-434E-862E-76EEB500DD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9691810-438B-434E-862E-76EEB500DD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D040911-1C0F-477F-8A54-89F70653EF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D040911-1C0F-477F-8A54-89F70653EF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D040911-1C0F-477F-8A54-89F70653EF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D040911-1C0F-477F-8A54-89F70653EF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EB3FFD-1BA8-4837-BDCD-375AAE973932}
+	EndGlobalSection
+EndGlobal
